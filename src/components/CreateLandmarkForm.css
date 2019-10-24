@@ -1,0 +1,95 @@
+.landmarkFieldsIndent {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.roleFields {
+  margin-left: 20px;
+}
+.roleFields:last-child {
+  margin-bottom: 20px;
+}
+
+
+.landmark-icons {
+flex-wrap: wrap;
+display: flex;
+width: 100%;
+/* border: 1px dashed hsl(128, 95%, 46%); */
+}
+
+.landmark-icon {
+  flex: 1 1 auto;  
+  text-align: center;
+  width: 50px;
+  height: 69px;
+  margin-right: 5px;
+}
+
+.landmark-icon:last-child {
+  margin-right: 0;
+  }
+
+.landmark-icon-bg{
+  position: relative;
+  width: 50px; 
+  height: 50px; 
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+.landmark-icon-image {
+  position: absolute;
+  top: 50%; 
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.landmark-icon-name{
+  text-align: center;
+}
+
+.landmarks-back {
+  margin: 15px 0;
+}
+
+.logo-image{
+display: flex;
+align-items: center;
+width: 100%;
+margin-bottom: 15px;
+
+margin-top: 15px;
+border-bottom: 1px solid #E0E0E0;
+padding-bottom: 15px;
+}
+
+.ally-logo{
+  width: 49px;
+  height: 24px; 
+  flex: 0 0 auto;
+
+}
+.onboard-menu{
+  color: #1473E6;
+  flex: 1 0 auto; 
+  text-align: right; 
+  font-weight: bold;
+  
+
+}
+
+.help-icon{
+  width: 16px;
+  height: 16px;
+  margin-left: 10px;
+  
+  
+}
+
+.create-button {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translate(-50%, 0%);
+}
+

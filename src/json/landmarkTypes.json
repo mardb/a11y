@@ -1,0 +1,40 @@
+
+[
+  {
+    "id": 1,
+    "name": "Navigation",
+    "items": [],
+    "color":"#1D8E3D",
+    "image":"../../images/icons assets/header_icon-active-1@2x.png"
+  },
+  {
+    "id": 2,
+    "name": "Main",
+    "items": [],
+    "color": "#D93025",
+    "image":"../../images/icons assets/main_icon-active-1@2x.png"
+  },
+  {
+    "id": 3,
+    "name": "Sidebar",
+    "items": [],
+    "color":"#F8AB00",
+    "image":"../../images/icons assets/sidebar_icon-active-1@2x.png"
+  },
+  {
+    "id": 4,
+    "name": "Footer",
+    "items": [],
+    "color":"#9333E6",
+    "image":"../../images/icons assets/footer_icon-active-1@2x.png"
+  },
+  {
+    "id": 5,
+    "name": "Custom",
+    "items": [],
+    "color": "#50E3C2",
+    "image":"../../images/icons assets/custom_icon-active-1@2x.png"
+  }
+
+  
+]

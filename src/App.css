@@ -1,0 +1,67 @@
+form {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: space-between;
+  flex: 0 0 auto;
+}
+
+h1 button {
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  flex: 0 0 auto;
+  align-items: center;
+}
+
+.nogrow {
+  flex: 0 0 auto;
+}
+
+.noshrink {
+  flex: 0 0 auto;
+}
+
+.row {
+  align-items: center;
+}
+
+.row label span {
+  font-size: 100%;
+}
+
+form a:hover {
+  color: red;
+}
+
+.line-break {
+  flex-wrap: wrap;
+}
+
+label.row {
+/* label.row select { */
+  flex: 1 1 auto;
+  width: 100%;
+}
+
+
+.full-width{
+width:100%
+
+}
+.align-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.align-center {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}

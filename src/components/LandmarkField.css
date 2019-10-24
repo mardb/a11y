@@ -1,0 +1,33 @@
+
+.landmark-field {
+  background-color: #f2f2f2;
+  padding: 10px 5px;
+  border-radius: 6px;
+  margin-bottom: 5px;
+  box-shadow: 10px 5px 5px #000000;
+  
+  
+}
+
+.landmark-field:last-child {
+  margin-bottom: 0;
+}
+
+.landmark-field-text {
+  margin-left: 8px;
+  margin-right: 8px;
+  flex: 1 0 auto;
+  
+}
+
+.trash-icon {
+position: right;
+width: 15px;
+height: 16px;
+flex: 0 0 auto;
+}
+
+.title-wrapper{
+  display: flex;
+  align-items: center;
+}

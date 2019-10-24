@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Banner",
+    "items": []
+  },
+  {
+    "id": 2,
+    "name": "Complementary",
+    "items": []
+  },
+  {
+    "id": 3,
+    "name": "Content Info",
+    "items": []
+  },
+  {
+    "id": 4,
+    "name": "Form",
+    "items": []
+  },
+  {
+    "id": 5,
+    "name": "Main",
+    "items": []
+  },
+
+  {
+    "id": 6,
+    "name": "Navigation",
+    "items": []
+  },
+  {
+    "id": 7,
+    "name": "Region",
+    "items": []
+  },
+  {
+    "id": 8,
+    "name": "Search",
+    "items": []
+  }
+]

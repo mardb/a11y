@@ -1,0 +1,74 @@
+
+.landmark-dropdown-icon {
+  width: 18px;
+  height: 18px;
+  margin-right: 10px;
+}
+
+.landmark-dropdown-expanded {
+  width: 100%;
+  height: calc(100vh - 190px);
+  background-color: white;
+  border: 1px solid #cccccc ;
+  border-radius: 4px;
+  padding: 5px;
+  
+    /* margin: 0 -10px 0 -10px; */
+  }  
+
+.landmark-dropdown-collapsed {
+  margin-top: 20px;
+}
+
+.landmark-dropdown-collapsed-card {
+  margin-top: 10px;
+  width: 100%;
+  background-color: white;
+  border: 1px solid #cccccc ;
+  border-radius: 4px;
+  padding: 5px; 
+
+  
+}
+
+
+.landmark-dropdown-collapsed-card-title {
+  font-size: 14px;
+  margin-bottom: 12px;
+  padding: 0 5px;
+  color: #000000;
+}
+
+.save-button {
+  position: absolute;
+  left: 50%;
+  bottom: 10px;
+  transform: translate(-50%, 0%);
+}
+
+.landmark-fields-wrapper {
+  margin-top: 20px;
+  padding: 0 10px;
+}
+
+.trash-icon {
+  position: right;
+  width: 15px;
+  height: 16px;
+  /* flex: 0 0 auto; */
+  }
+
+
+.title-wrapper{
+  display: flex;
+  align-items: center;
+
+}
+/* selected: # */
+.selected-div{
+  /* color: #E4E4E4; */
+  border-radius: 5px;
+padding-bottom: 15px;
+font-size: 15px;
+padding: 0 10px;
+}
