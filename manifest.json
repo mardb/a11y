@@ -10,7 +10,8 @@
   "description": "Adobe XD plugin for accessible design, A11y.",
   "summary": "Accessibility Plugin",
   "languages": ["en"],
-  "helpUrl": "https://github.com/a11y/",
+  "helpUrl": "https://github.com/mardb/a11y",
+  
   "icons": [
     {
       "width": 48,
